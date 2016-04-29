@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRecipeBookWebApi", "MyRecipeBookWebApi\MyRecipeBookWebApi.csproj", "{819163AF-A359-425B-8CDA-4A43BEC082FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRecipeBookWebApi.Models", "MyRecipeBookWebApi.Models\MyRecipeBookWebApi.Models.csproj", "{3B5E67B7-7A6C-4808-9ABD-441EEC2E3DB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{819163AF-A359-425B-8CDA-4A43BEC082FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{819163AF-A359-425B-8CDA-4A43BEC082FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{819163AF-A359-425B-8CDA-4A43BEC082FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{819163AF-A359-425B-8CDA-4A43BEC082FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B5E67B7-7A6C-4808-9ABD-441EEC2E3DB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B5E67B7-7A6C-4808-9ABD-441EEC2E3DB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B5E67B7-7A6C-4808-9ABD-441EEC2E3DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B5E67B7-7A6C-4808-9ABD-441EEC2E3DB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

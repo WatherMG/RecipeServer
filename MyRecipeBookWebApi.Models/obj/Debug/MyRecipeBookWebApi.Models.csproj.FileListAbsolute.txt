@@ -1,0 +1,19 @@
+C:\Users\nader_000\Desktop\MyRecipeBookWebApi\MyRecipeBookWebApi.Models\bin\Debug\MyRecipeBookWebApi.Models.dll
+C:\Users\nader_000\Desktop\MyRecipeBookWebApi\MyRecipeBookWebApi.Models\bin\Debug\MyRecipeBookWebApi.Models.pdb
+C:\Users\nader_000\Desktop\MyRecipeBookWebApi\MyRecipeBookWebApi.Models\obj\Debug\MyRecipeBookWebApi.Models.csprojResolveAssemblyReference.cache
+C:\Users\nader_000\Desktop\MyRecipeBookWebApi\MyRecipeBookWebApi.Models\obj\Debug\MyRecipeBookWebApi.Models.dll
+C:\Users\nader_000\Desktop\MyRecipeBookWebApi\MyRecipeBookWebApi.Models\obj\Debug\MyRecipeBookWebApi.Models.pdb
+D:\Repositories-Git\AndroidWorkProjectServices\MyRecipeBookWebApi\MyRecipeBookWebApi.Models\bin\Debug\MyRecipeBookWebApi.Models.dll
+D:\Repositories-Git\AndroidWorkProjectServices\MyRecipeBookWebApi\MyRecipeBookWebApi.Models\bin\Debug\MyRecipeBookWebApi.Models.pdb
+D:\Repositories-Git\AndroidWorkProjectServices\MyRecipeBookWebApi\MyRecipeBookWebApi.Models\bin\Debug\Newtonsoft.Json.dll
+D:\Repositories-Git\AndroidWorkProjectServices\MyRecipeBookWebApi\MyRecipeBookWebApi.Models\bin\Debug\Newtonsoft.Json.xml
+D:\Repositories-Git\AndroidWorkProjectServices\MyRecipeBookWebApi\MyRecipeBookWebApi.Models\obj\Debug\MyRecipeBookWebApi.Models.csprojResolveAssemblyReference.cache
+D:\Repositories-Git\AndroidWorkProjectServices\MyRecipeBookWebApi\MyRecipeBookWebApi.Models\obj\Debug\MyRecipeBookWebApi.Models.dll
+D:\Repositories-Git\AndroidWorkProjectServices\MyRecipeBookWebApi\MyRecipeBookWebApi.Models\obj\Debug\MyRecipeBookWebApi.Models.pdb
+E:\Visual Studio\MyRecipeBookWebApi\MyRecipeBookWebApi.Models\bin\Debug\MyRecipeBookWebApi.Models.dll
+E:\Visual Studio\MyRecipeBookWebApi\MyRecipeBookWebApi.Models\bin\Debug\MyRecipeBookWebApi.Models.pdb
+E:\Visual Studio\MyRecipeBookWebApi\MyRecipeBookWebApi.Models\bin\Debug\Newtonsoft.Json.dll
+E:\Visual Studio\MyRecipeBookWebApi\MyRecipeBookWebApi.Models\bin\Debug\Newtonsoft.Json.xml
+E:\Visual Studio\MyRecipeBookWebApi\MyRecipeBookWebApi.Models\obj\Debug\MyRecipeBookWebApi.Models.csprojResolveAssemblyReference.cache
+E:\Visual Studio\MyRecipeBookWebApi\MyRecipeBookWebApi.Models\obj\Debug\MyRecipeBookWebApi.Models.dll
+E:\Visual Studio\MyRecipeBookWebApi\MyRecipeBookWebApi.Models\obj\Debug\MyRecipeBookWebApi.Models.pdb
